@@ -1,0 +1,7 @@
+/Users/gallok/tmp/learningapp/bin/Publish/learningapp
+/Users/gallok/tmp/learningapp/bin/Publish/appsettings.Development.json
+/Users/gallok/tmp/learningapp/bin/Publish/appsettings.json
+/Users/gallok/tmp/learningapp/bin/Publish/learningapp.dll
+/Users/gallok/tmp/learningapp/bin/Publish/learningapp.deps.json
+/Users/gallok/tmp/learningapp/bin/Publish/learningapp.runtimeconfig.json
+/Users/gallok/tmp/learningapp/bin/Publish/learningapp.pdb
